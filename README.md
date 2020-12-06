@@ -22,3 +22,7 @@ https://spectrum.chat/gatsby-wg-drupal/general/gatsby-with-drupal-graphql-module
 
 Fix broken authentication:
 https://github.com/drupal-graphql/graphql/pull/774
+
+
+Gatsby Data Relationships With Foreign-Key Fields:
+https://hashinteractive.com/blog/gatsby-data-relationships-with-foreign-key-fields/
